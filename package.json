@@ -1,0 +1,14 @@
+{
+  "name": "dkr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yfarhan/dkr.git",
+  "author": "Yaser Farhan <yaser.syed@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
