@@ -1,1 +1,2 @@
-# dkr
+- minimal docker config
+- multi stage
